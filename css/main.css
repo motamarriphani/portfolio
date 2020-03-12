@@ -1,0 +1,32 @@
+body
+{
+	background-color: #1E88E5;
+	margin: 0px;
+}
+
+.site-header{
+	color: #1B1725;
+	height: 100vh;
+	font-family:monospace;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.link-text{
+	color: #1B1725;
+}
+
+.profile-pic{
+	border-radius: 50%;
+	max-height: 200px;
+	max-width: 200px;
+	box-shadow: #2a3c4c 2px 5px 5px;
+
+}
+
+.site-text{
+	margin: 10px;
+}
